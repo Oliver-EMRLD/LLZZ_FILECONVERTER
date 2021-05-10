@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1617048444 source:/home/oliver/OFFICIAL_PROJECTS/S(tupid)F(ile)F(ormat)C(onverter)/SFFC/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618432616 source:/home/oliver/OFFICIAL_PROJECTS/SFFC/SFFC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	"XIO.h"
+
+1618078642 /home/oliver/OFFICIAL_PROJECTS/SFFC/SFFC/XIO.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+
