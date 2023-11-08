@@ -1,5 +1,5 @@
 # LLZZ_FILECONVERTER
-A file converter written for high end IBM machines and mainframes.
+Stupid fast file converter for all platforms, but mainly intended for IBM mainframes.
 Converts given LLZZ file into a format that can be read by the Hessling editor and can convert it back to LLZZ. It can also convert regular fixed length files into Hesslings file format.
 
 # Installation
